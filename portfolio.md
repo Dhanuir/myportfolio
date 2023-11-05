@@ -10,7 +10,7 @@ A tool to quickly preview mocap from a wide variety of devices. <br />
 ## Unreal Engine Virtual Camera Switch 
 A tool used while shooting by the director, actors and others. <br />
 ![](gifs/VMS_CreateCameras.gif.gif)
-
+ 
 ![](gifs/VMS_Teleport.gif)
 
 ## Face & body mocap setup in Unreal Engine 

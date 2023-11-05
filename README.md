@@ -7,9 +7,8 @@ I always try to make it as simple as possible and only add a single button per t
 ## Web Mocap Previewer 
 A tool to quickly preview mocap from a wide variety of devices. <br />
 
-## Unreal Engine Virtual Camera Switch 
-# A tool used while shooting by the director, actors and others. <br />
-Setup four split camera view.<br />
+## Unreal Engine Virtual Monitor Switch (VMS)
+### A tool used while shooting by the director, actors and others. <br />
 
 Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)

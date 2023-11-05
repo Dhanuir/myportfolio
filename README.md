@@ -16,10 +16,13 @@ Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 
 Create, edit and remove cinecameras. View cameras in foursplit mode<br />
 ![](ProjectImages/VMS/gifs/VMS_CreateCameras.gif)
+
 Edit the foursplit sections<br />
 ![](ProjectImages/VMS/images/FourSplitSettings.PNG)
+
 Add cameras to sequences under a master sequence<br />
 ![](ProjectImages/VMS/images/CamerasToSequence.PNG)
+
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)
 

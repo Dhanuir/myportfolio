@@ -16,7 +16,7 @@ Setup four split camera view.<br />
 Teleporting:<br />
 ![](gifs/VMS_Teleport.gif)
 
-Creating cameras and opening foursplit view:<br />
+Creating cameras and viewing in foursplit:<br />
 ![](gifs/VMS_CreateCameras.gif)
 
 ## Face & body mocap setup in Unreal Engine 

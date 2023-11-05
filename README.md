@@ -19,7 +19,7 @@ Create, edit and remove cameras, and view in foursplit mode<br />
 Edit the foursplit sections<br />
 ![](ProjectImages/VMS/gifs/VMS_Foursplit.gif)
 
-Transfer cameras as spawnable under a level sequence<br />
+Transfer cameras to a level sequence<br />
 ![](ProjectImages/VMS/gifs/VMS_CamerasToSequence.gif)
 
 Gamepad layout<br />

@@ -19,8 +19,8 @@ Create, edit and remove cinecameras. View cameras in foursplit mode<br />
 Edit the foursplit sections<br />
 ![](ProjectImages/VMS/images/FourSplitSettings.PNG)
 
-Add cameras to sequences under a master sequence<br />
-![](ProjectImages/VMS/images/CamerasToSequence.PNG)
+Transfer cameras as spawnable under a level sequence<br />
+![](ProjectImages/VMS/gifs/CamerasToSequence.gif)
 
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)

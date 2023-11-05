@@ -20,7 +20,7 @@ Edit the foursplit sections<br />
 ![](ProjectImages/VMS/images/FourSplitSettings.PNG)
 
 Transfer cameras as spawnable under a level sequence<br />
-![](ProjectImages/VMS/gifs/CamerasToSequence.gif)
+![](ProjectImages/VMS/gifs/VMS_CamerasToSequence.gif)
 
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)

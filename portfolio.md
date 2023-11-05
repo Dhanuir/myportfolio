@@ -8,9 +8,16 @@ I always try to make it as simple as possible and only add a single button per t
 A tool to quickly preview mocap from a wide variety of devices. <br />
 
 ## Unreal Engine Virtual Camera Switch 
-A tool used while shooting by the director, actors and others. <br />
-![](gifs/VMS_CreateCameras.gif)
+# A tool used while shooting by the director, actors and others. <br />
+Navigate the level using a gamepad or keyboard & mouse.<br />
+Create, edit and remove cinecameras.<br />
+Setup four split camera view.<br />
+
+Teleporting:<br />
 ![](gifs/VMS_Teleport.gif)
+
+Creating cameras and opening foursplit view:<br />
+![](gifs/VMS_CreateCameras.gif)
 
 ## Face & body mocap setup in Unreal Engine 
 

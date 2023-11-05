@@ -13,7 +13,7 @@ A tool to quickly preview mocap from a wide variety of devices. <br />
 Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)
 
-Create, edit and remove cameras, and view cameras in foursplit mode<br />
+Create, edit and remove cameras, and view in foursplit mode<br />
 ![](ProjectImages/VMS/gifs/VMS_CreateCameras.gif)
 
 Edit the foursplit sections<br />

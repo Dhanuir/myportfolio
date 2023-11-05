@@ -9,15 +9,19 @@ A tool to quickly preview mocap from a wide variety of devices. <br />
 
 ## Unreal Engine Virtual Camera Switch 
 # A tool used while shooting by the director, actors and others. <br />
-Navigate the level using a gamepad or keyboard & mouse.<br />
-Create, edit and remove cinecameras.<br />
 Setup four split camera view.<br />
 
-Teleporting:<br />
+Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)
 
-Creating cameras and viewing in foursplit:<br />
+Create, edit and remove cinecameras. View cameras in foursplit mode<br />
 ![](ProjectImages/VMS/gifs/VMS_CreateCameras.gif)
+Edit the foursplit sections<br />
+![](ProjectImages/VMS/images/FourSplitSettings.PNG)
+Add cameras to sequences under a master sequence<br />
+![](ProjectImages/VMS/images/CamerasToSequence.PNG)
+Gamepad layout<br />
+![](ProjectImages/VMS/images/GamepadLayout.PNG)
 
 ## Face & body mocap setup in Unreal Engine 
 

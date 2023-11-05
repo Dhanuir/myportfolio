@@ -17,7 +17,7 @@ Create, edit and remove cinecameras. View cameras in foursplit mode<br />
 ![](ProjectImages/VMS/gifs/VMS_CreateCameras.gif)
 
 Edit the foursplit sections<br />
-![](ProjectImages/VMS/images/FourSplitSettings.PNG)
+![](ProjectImages/VMS/gifs/VMS_Foursplit.gif)
 
 Transfer cameras as spawnable under a level sequence<br />
 ![](ProjectImages/VMS/gifs/VMS_CamerasToSequence.gif)

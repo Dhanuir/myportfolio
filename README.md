@@ -27,6 +27,10 @@ Gamepad layout<br />
 
 ## Face & body mocap setup in Unreal Engine 
 
+https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
+
+
+
 ## Mixed shaders (watercolor background & cell-shaded character) 
 
 ## iPhone Face Mocap converter for Windows

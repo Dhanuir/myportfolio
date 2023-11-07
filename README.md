@@ -10,6 +10,10 @@ A tool to quickly preview mocap from a wide variety of devices. <br />
 ## Unreal Engine Virtual Monitor Switch (VMS)
 ### A tool used while shooting by the director, actors and others.
 
+Used in production
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/66cd88a8-e98e-43e8-be1e-94805905b54e
+
 Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)
 
@@ -34,7 +38,12 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-
 ## Mixed shaders (watercolor background & cell-shaded character) 
 
 ## iPhone Face Mocap converter for Windows
-Used to get the raw take from the iPhone and set it up and get it ready for the 3D pipeline.  <br />
+Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br />
+- Changes takes from variable frame-rate to constant frame-rate and syncs the audio.<br />
+- Adds burnt-in timecode.<br />
+- Lowers video size and also creates an image sequence with an audio file.<br />
+
+![](ProjectImages/TakeConverter/TakeConverter.PNG)
 
 ## Lighting in Unreal Engine
 (Also worked on shaders & cloth physics) 

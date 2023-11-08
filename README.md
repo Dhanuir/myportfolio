@@ -1,5 +1,3 @@
-# Daniel Hellbom - Portfolio
-
 ## Maya Toolkit
 Includes a wide variety of tools to make the job easier for artists and technical workers. <br />
 I always try to make it as simple as possible and only add a single button per tool if possible. <br />
@@ -33,9 +31,9 @@ Gamepad layout<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
+## Cloth Simulation (Unreal Engine)
 
-
-## Mixed shaders (watercolor background & cell-shaded character) 
+https://github.com/Dhanuir/myportfolio/assets/149911939/6ac107ff-568d-48c4-b8f7-bf60e5728684
 
 ## iPhone Face Mocap converter for Windows
 Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br />
@@ -46,4 +44,11 @@ Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br /
 ![](ProjectImages/TakeConverter/TakeConverter.PNG)
 
 ## Lighting in Unreal Engine
-(Also worked on shaders & cloth physics) 
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/00e9268b-628b-48d3-a9fe-7dd4847ddd3c
+
+![](ProjectImages/Lighting/alley_01.png)
+
+![](ProjectImages/Lighting/alley_02.png)
+
+![](ProjectImages/Lighting/flying_02.png)

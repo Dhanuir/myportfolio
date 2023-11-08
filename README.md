@@ -2,8 +2,9 @@
 Includes a wide variety of tools to make the job easier for artists and technical workers. <br />
 I always try to make it as simple as possible and only add a single button per tool if possible. <br />
 
-## Web Mocap Previewer 
-A tool to quickly preview mocap from a wide variety of devices. <br />
+## Face & body mocap setup in Unreal Engine 
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
 ## Unreal Engine Virtual Monitor Switch (VMS)
 #### A tool used while shooting by the director, actors and others.
@@ -27,19 +28,20 @@ Transfer cameras to a level sequence<br />
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)
 
-## Face & body mocap setup in Unreal Engine 
-
-https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
-
 ## Cloth Simulation (Unreal Engine)
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/6ac107ff-568d-48c4-b8f7-bf60e5728684
+
+## Web Mocap Previewer 
+A tool to quickly preview mocap from a wide variety of devices. <br />
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/94e85e49-64f6-43aa-a5b3-6522e03d6f7f
 
 ## iPhone Face Mocap converter for Windows
 Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br />
 - Changes takes from variable frame-rate to constant frame-rate and syncs the audio.<br />
 - Adds burnt-in timecode.<br />
-- Lowers video size and also creates an image sequence with an audio file.<br />
+- Compress and transcode, and also creates an image sequence with an audio file.<br />
 
 ![](ProjectImages/TakeConverter/TakeConverter.PNG)
 

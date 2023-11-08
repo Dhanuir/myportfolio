@@ -1,6 +1,5 @@
 ## Maya Toolkit
 A wide variety of tools to make the job easier for artists and technical workers. <br />
-I always try to make it as simple as possible and only add a single button per tool if possible. <br />
 
 ## Face & body mocap setup in Unreal Engine 
 

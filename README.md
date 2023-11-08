@@ -1,5 +1,5 @@
 ## Maya Toolkit
-Includes a wide variety of tools to make the job easier for artists and technical workers. <br />
+A wide variety of tools to make the job easier for artists and technical workers. <br />
 I always try to make it as simple as possible and only add a single button per tool if possible. <br />
 
 ## Face & body mocap setup in Unreal Engine 
@@ -8,10 +8,6 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-
 
 ## Unreal Engine Virtual Monitor Switch (VMS)
 #### A tool used while shooting by the director, actors and others.
-
-Use in production
-
-https://github.com/Dhanuir/myportfolio/assets/149911939/66cd88a8-e98e-43e8-be1e-94805905b54e
 
 Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)
@@ -24,6 +20,10 @@ Edit the foursplit sections<br />
 
 Transfer cameras to a level sequence<br />
 ![](ProjectImages/VMS/gifs/VMS_CamerasToSequence.gif)
+
+Use in production
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/66cd88a8-e98e-43e8-be1e-94805905b54e
 
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)

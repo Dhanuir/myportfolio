@@ -38,7 +38,7 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/94e85e49-64f6-43aa-a5b3-
 
 ## iPhone Face Mocap converter for Windows
 Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br />
-- Changes takes from variable frame-rate to constant frame-rate and syncs the audio.<br />
+- Changes takes from variable to constant frame-rate and syncs the audio.<br />
 - Adds burnt-in timecode.<br />
 - Compress and transcode, and also creates an image sequence with an audio file.<br />
 

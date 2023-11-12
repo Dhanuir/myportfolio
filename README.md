@@ -1,13 +1,5 @@
-## Maya Toolkit
-A wide variety of tools to make the job easier for artists and technical workers. <br />
 
-https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
-
-## Auto-Create Face Controllers
-
-
-
-## Live Face & body mocap setup in Unreal Engine 
+## Live Face & Body Mocap Setup in Unreal Engine 
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
@@ -20,11 +12,8 @@ Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 Create, edit and remove cameras, and view in foursplit mode<br />
 ![](ProjectImages/VMS/gifs/VMS_CreateCameras.gif)
 
-Edit the foursplit sections<br />
+Full control over the viewing setup<br />
 ![](ProjectImages/VMS/gifs/VMS_Foursplit.gif)
-
-Transfer cameras to a level sequence<br />
-![](ProjectImages/VMS/gifs/VMS_CamerasToSequence.gif)
 
 Used in production
 
@@ -36,6 +25,15 @@ Gamepad layout<br />
 ## Cloth Simulation (Unreal Engine)
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/6ac107ff-568d-48c4-b8f7-bf60e5728684
+
+## Maya Toolkit
+A wide variety of tools to make the job easier for artists and technical workers. <br />
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
+
+## One Click Auto-Created Face Controllers
+Works on any character.
+![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
 ## Web Mocap Previewer 
 A tool to quickly preview mocap from a wide variety of devices. <br />

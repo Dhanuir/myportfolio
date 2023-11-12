@@ -4,7 +4,7 @@
 https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
 ## Unreal Engine Virtual Monitor Switch (VMS)
-#### A tool used while shooting by the director, actors and others.
+A tool used while shooting by the director, actors and others.
 
 Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)
@@ -28,6 +28,8 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/6ac107ff-568d-48c4-b8f7-
 
 ## Maya Toolkit
 A wide variety of tools to make the job easier for artists and technical workers. <br />
+
+Here's an example of one of the tools which imports a face mocap take and applies the data to the controllers which the animators can later fine-tune.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
 
@@ -56,4 +58,4 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/00e9268b-628b-48d3-a9fe-
 
 ![](ProjectImages/Lighting/alley_02.png)
 
-![](ProjectImages/Lighting/flying_02.png)
+![](ProjectImages/Lighting/flying_03.png)

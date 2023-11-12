@@ -3,7 +3,7 @@ A wide variety of tools to make the job easier for artists and technical workers
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
 
-## Auto-create Face Controllers
+## Auto-Create Face Controllers
 
 
 

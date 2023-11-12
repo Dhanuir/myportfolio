@@ -26,7 +26,7 @@ Edit the foursplit sections<br />
 Transfer cameras to a level sequence<br />
 ![](ProjectImages/VMS/gifs/VMS_CamerasToSequence.gif)
 
-Use in production
+Used in production
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/66cd88a8-e98e-43e8-be1e-94805905b54e
 

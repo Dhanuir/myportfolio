@@ -34,7 +34,6 @@ Here's an example of one of the tools which imports a face mocap take and applie
 https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
 
 ## Auto-Generate Face Controllers (WIP)
-Works with any character.
 ![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
 ## Web Mocap Previewer 

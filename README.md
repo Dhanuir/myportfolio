@@ -23,6 +23,7 @@ Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)
 
 ## Cloth Simulation (Unreal Engine)
+Also did the shading.<br />
 ![](ProjectImages/cloth_sim/cloth_sim_01.gif)
 
 ## Maya Toolkit

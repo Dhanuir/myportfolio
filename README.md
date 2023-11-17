@@ -37,7 +37,8 @@ Works with any character.
 ![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
 ## Web Mocap Previewer 
-A tool to quickly preview mocap from a wide variety of devices. <br />
+Quickly preview mocap animations through the browser from a wide variety of devices. <br />
+New characters can also be uploaded.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/94e85e49-64f6-43aa-a5b3-6522e03d6f7f
 

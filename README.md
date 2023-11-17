@@ -6,6 +6,10 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-
 ## Unreal Engine Virtual Monitor Switch (VMS)
 A tool used while shooting by the director, actors and others.
 
+Used in production
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/66cd88a8-e98e-43e8-be1e-94805905b54e
+
 Teleport and navigate the level using a gamepad or keyboard & mouse<br />
 ![](ProjectImages/VMS/gifs/VMS_Teleport.gif)
 
@@ -14,10 +18,6 @@ Create, edit and remove cameras, and view in foursplit mode<br />
 
 Full control over the viewing setup<br />
 ![](ProjectImages/VMS/gifs/VMS_Foursplit.gif)
-
-Used in production
-
-https://github.com/Dhanuir/myportfolio/assets/149911939/66cd88a8-e98e-43e8-be1e-94805905b54e
 
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)

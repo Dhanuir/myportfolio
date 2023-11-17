@@ -23,8 +23,7 @@ Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)
 
 ## Cloth Simulation (Unreal Engine)
-
-https://github.com/Dhanuir/myportfolio/assets/149911939/6ac107ff-568d-48c4-b8f7-bf60e5728684
+![](ProjectImages/cloth_sim/cloth_sim_01.gif)
 
 ## Maya Toolkit
 A wide variety of tools to make the job easier for artists and technical workers. <br />

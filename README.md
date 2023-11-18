@@ -41,7 +41,7 @@ New characters can also be uploaded.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/94e85e49-64f6-43aa-a5b3-6522e03d6f7f
 
-## iPhone Face Mocap converter for Windows / Mac
+## iPhone Face Mocap converter for Windows & Mac
 Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br />
 - Changes takes from variable to constant frame-rate and syncs the audio.<br />
 - Adds burnt-in timecode.<br />

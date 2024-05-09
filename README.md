@@ -35,7 +35,7 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-
 ## Auto-Generate Face Controllers (WIP)
 ![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
-## Web Mocap Previewer 
+## Web Mocap Previewer (React & Three.js)
 Quickly preview mocap animations through the browser from a wide variety of devices. <br />
 New characters can also be uploaded.<br />
 

@@ -4,7 +4,8 @@
 https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
 ## Unreal Engine Virtual Monitor Switch (VMS)
-A tool used while shooting by the director, actors and others.
+A tool used while shooting by the director, actors and others. <br />
+Easily navigate around the level using a gamepad. Place, edit and delete cameras and view them in a four split-screen mode. <br />
 
 Used in production
 
@@ -27,6 +28,7 @@ Gamepad layout<br />
 
 ## Maya Toolkit
 A wide variety of tools to make the job easier for artists and technical workers. <br />
+The toolkit contains close to 20 different tools for Mocap, Animation, Rigging, and Exporting. <br />
 
 Here's an example of one of the tools which imports a face mocap take and applies the data to the controllers which the animators can later fine-tune.<br />
 

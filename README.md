@@ -53,8 +53,8 @@ Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br /
 
 ![](ProjectImages/TakeConverter/TakeConverter.PNG)
 
-## Lighting in Unreal Engine
-Managed lighting for promotional content in Unreal Engine.<br />
+## Lighting for Promotional Content (Work in Progress)
+Managed lighting for promotional content in Unreal Engine. The materials shown (one video and three images) represent work in progress, as they were created during the development phase and do not reflect the final result.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/00e9268b-628b-48d3-a9fe-7dd4847ddd3c
 

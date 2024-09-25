@@ -27,19 +27,21 @@ Gamepad layout<br />
 ![](ProjectImages/cloth_sim/cloth_sim_01.gif)
 
 ## Maya Toolkit
-A wide variety of tools to make the job easier for artists and technical workers. <br />
-The toolkit contains close to 20 different tools for Mocap, Animation, Rigging, and Exporting. <br />
+Mocap tools to import and apply facial mocap data for animator refinement.<br />
+Animation tools like controller mirroring and resetting, and converting Unreal Engine sequences to Maya.<br />
+Rigging tools to export/import facial rig connections and create blendshapes.<br />
+Export functionality to easily transfer complex characters and animations into Unreal Engine, reducing manual workload.<br />
 
 Here's an example of one of the tools which imports a face mocap take and applies the data to the controllers which the animators can later fine-tune.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
 
 ## Auto-Generate Face Controllers (WIP)
+This tool automatically generates face controllers based on the in-between values of the default pose and blendshape poses. Users can select specific parts of the face to receive controllers, which are limited to the movement range of the associated blendshapes, ensuring realistic motion. Multiple blendshapes (e.g., nostril up, down, left, right) can be assigned to a single controller, allowing for efficient control of complex facial movements. Controller positions are auto-generated but can be adjusted by transforming the parent group.<br />
 ![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
 ## Web Mocap Previewer (React & Three.js)
-Quickly preview mocap animations through the browser from a wide variety of devices. <br />
-New characters can also be uploaded.<br />
+A web-based mocap animation previewer built with React and Three.js, allowing teams to quickly review mocap animations across multiple devices via a browser. The tool supports uploading new characters, dynamically changing environments, lighting, and camera setups. It also includes functionality to place additional cameras in the scene, streamlining feedback and iteration cycles during animation reviews.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/94e85e49-64f6-43aa-a5b3-6522e03d6f7f
 
@@ -52,6 +54,7 @@ Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br /
 ![](ProjectImages/TakeConverter/TakeConverter.PNG)
 
 ## Lighting in Unreal Engine
+Managed lighting for promotional content in Unreal Engine.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/00e9268b-628b-48d3-a9fe-7dd4847ddd3c
 

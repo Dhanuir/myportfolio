@@ -1,11 +1,11 @@
 
 ## Live Face & Body Mocap Setup in Unreal Engine 
+Set up a character in Unreal Engine for real-time motion capture of body and face. This included rigging the character and creating the necessary blendshapes for real-time performance.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
 ## Unreal Engine Virtual Monitor Switch (VMS)
-A tool used while shooting by the director, actors and others. <br />
-Easily navigate around the level using a gamepad. Place, edit and delete cameras and view them in a four split-screen mode. <br />
+A custom tool for Unreal Engine, used by directors, actors, and production teams during live shoots. It enables intuitive level navigation with a gamepad, camera placement/editing in a four-split screen mode, and sequence creation with a single click, significantly improving on-set production efficiency. <br />
 
 Used in production
 

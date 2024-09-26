@@ -37,7 +37,7 @@ Here's an example of one of the tools which imports a face mocap take and applie
 https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-b3cbf15297a6
 
 ## Auto-Generate Face Controllers (WIP)
-This tool automatically generates face controllers based on the in-between values of the default pose and blendshape poses. Users can select specific parts of the face to receive controllers, which are limited to the movement range of the associated blendshapes, ensuring realistic motion. Multiple blendshapes (e.g., nostril up, down, left, right) can be assigned to a single controller, allowing for efficient control of complex facial movements. Controller positions are auto-generated but can be adjusted by transforming the parent group.<br />
+This tool automatically generates face controllers based on blendshapes, placing them in positions that correspond to the blendshapes’ movements. Users can either generate controllers for all blendshapes or select specific ones, allowing for flexible and intuitive control of facial expressions. Controller positions can also be adjusted after generation.<br />
 ![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
 ## Web Mocap Previewer (React & Three.js)

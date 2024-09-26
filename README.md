@@ -60,6 +60,4 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/00e9268b-628b-48d3-a9fe-
 
 ![](ProjectImages/Lighting/alley_01.png)
 
-![](ProjectImages/Lighting/alley_02.png)
-
 ![](ProjectImages/Lighting/flying_03.png)

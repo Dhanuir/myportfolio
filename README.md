@@ -40,8 +40,8 @@ https://github.com/Dhanuir/myportfolio/assets/149911939/2ddddefe-342b-428f-bd85-
 Users can either generate controllers for all blendshapes or select specific ones, allowing for intuitive control of facial expressions. Controller positions can also be adjusted after generation.<br />
 ![](ProjectImages/AutoFaceControllers/AutoFaceControllers_03.gif)
 
-## Web Mocap Previewer (React & Three.js)
-A web-based mocap animation previewer built with React and Three.js, allowing teams to quickly review mocap animations across multiple devices via a browser. The tool supports uploading new characters, dynamically changing environments, lighting, and camera setups. It also includes functionality to place additional cameras in the scene, streamlining feedback and iteration cycles during animation reviews.<br />
+## Web Mocap Previewer (Vue.js & Three.js)
+A web-based mocap animation previewer built with Vue.js and Three.js, allowing teams to quickly review mocap animations across multiple devices via a browser. The tool supports uploading new characters, dynamically changing environments, lighting, and camera setups. It also includes functionality to place additional cameras in the scene, streamlining feedback and iteration cycles during animation reviews.<br />
 
 https://github.com/Dhanuir/myportfolio/assets/149911939/94e85e49-64f6-43aa-a5b3-6522e03d6f7f
 

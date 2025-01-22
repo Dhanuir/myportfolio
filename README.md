@@ -23,7 +23,7 @@ Full control over the viewing setup<br />
 Gamepad layout<br />
 ![](ProjectImages/VMS/images/GamepadLayout.PNG)
 
-## Cloth Simulation & Shading in Unreal Engine
+## Cloth Simulation & PBR Materials in Unreal Engine
 ![](ProjectImages/cloth_sim/cloth_sim_01.gif)
 
 ## Maya Toolkit - 20 Different 3D Pipeline Tools

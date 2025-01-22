@@ -26,7 +26,7 @@ Gamepad layout<br />
 ## Cloth Simulation & Shading in Unreal Engine
 ![](ProjectImages/cloth_sim/cloth_sim_01.gif)
 
-## Maya Toolkit
+## Maya Toolkit - 20 Different 3D Pipeline Tools
 Mocap tools to import and apply facial mocap data for animator refinement.<br />
 Animation tools like controller mirroring and resetting, and converting Unreal Engine sequences to Maya.<br />
 Rigging tools to export/import facial rig connections and create blendshapes.<br />

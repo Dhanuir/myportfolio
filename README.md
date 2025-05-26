@@ -3,11 +3,6 @@ Built with C++, using SFML for graphics/media and RapidJSON for JSON data handli
 Take a look at the code here: [Vendor UI Project](https://github.com/Dhanuir/myportfolio/tree/main/ProjectImages/SFML/Code)<br />
 ![](ProjectImages/SFML/Inventory.gif)
 
-## Live Face & Body Mocap Setup in Unreal Engine 
-Set up a character in Unreal Engine for real-time motion capture of body and face. This included rigging the character and creating the necessary blendshapes for real-time performance.<br />
-
-https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
-
 ## Unreal Engine Virtual Monitor Switch (VMS)
 A custom tool for Unreal Engine, used by directors, actors, and production teams during live shoots. It enables intuitive level navigation with a gamepad, camera placement/editing in a four-split screen mode, and sequence creation with a single click, significantly improving on-set production efficiency. <br />
 
@@ -56,6 +51,11 @@ Used to get the raw take from the iPhone and set it up for the 3D pipeline.<br /
 - Compress and transcode, and also creates an image sequence with an audio file.<br />
 
 ![](ProjectImages/TakeConverter/TakeConverter.PNG)
+
+## Live Face & Body Mocap Setup in Unreal Engine 
+Set up a character in Unreal Engine for real-time motion capture of body and face. This included rigging the character and creating the necessary blendshapes for real-time performance.<br />
+
+https://github.com/Dhanuir/myportfolio/assets/149911939/0cd28054-85f2-41d3-bef5-a011c1ab179f
 
 ## Lighting for Promotional Content (Work in Progress)
 Managed lighting for promotional content in Unreal Engine. The materials shown (one video and three images) represent work in progress, as they were created during the development phase and do not reflect the final result.<br />

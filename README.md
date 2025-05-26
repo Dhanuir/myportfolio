@@ -1,3 +1,7 @@
+## Vendor UI (Personal Project)
+Built with C++, using SFML for graphics/media and RapidJSON for JSON data handling.<br />
+Take a look at the code here: [Vendor UI Project](https://github.com/Dhanuir/myportfolio/tree/main/ProjectImages/SFML/Code)<br />
+![](ProjectImages/SFML/Inventory.gif)
 
 ## Live Face & Body Mocap Setup in Unreal Engine 
 Set up a character in Unreal Engine for real-time motion capture of body and face. This included rigging the character and creating the necessary blendshapes for real-time performance.<br />

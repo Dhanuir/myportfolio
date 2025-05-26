@@ -1,0 +1,29 @@
+{
+    "name": "{PUT_HERE_YOUR_NAME}",
+    "maxSpace": 300,
+    "currentMoney": 600,
+    "items": [
+        {
+            "name": "potion",
+            "cost": 300,
+            "size": 5,
+            "rarity": 1,
+            "count": 20,
+            "attributes": [
+                "red",
+                "healthy"
+            ]
+        },
+        {
+            "name": "poison",
+            "cost": 500,
+            "size": 2,
+            "rarity": 2,
+            "count": 1,
+            "attributes": [
+                "green",
+                "deadly"
+            ]
+        }
+    ]
+}

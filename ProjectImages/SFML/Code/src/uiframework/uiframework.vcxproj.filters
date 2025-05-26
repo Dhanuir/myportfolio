@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="BackgroundChanger.cpp" />
+    <ClCompile Include="InventoryContanier.cpp" />
+    <ClCompile Include="TextWidget.cpp" />
+    <ClCompile Include="pointerwidget.cpp" />
+    <ClCompile Include="InventorySlot.cpp" />
+    <ClCompile Include="ButtonWidget.cpp" />
+    <ClCompile Include="ModalWidget.cpp" />
+    <ClCompile Include="SortingWidget.cpp" />
+    <ClCompile Include="TradingWidget.cpp" />
+    <ClCompile Include="TooltipWidget.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="BackgroundChanger.h" />
+    <ClInclude Include="pointerwidget.h" />
+    <ClInclude Include="InventoryContainer.h" />
+    <ClInclude Include="TextWidget.h" />
+    <ClInclude Include="InventorySlot.h" />
+    <ClInclude Include="ButtonWidget.h" />
+    <ClInclude Include="ModalWidget.h" />
+    <ClInclude Include="SortingWidget.h" />
+    <ClInclude Include="FontManager.h" />
+    <ClInclude Include="TradingWidget.h" />
+    <ClInclude Include="TooltipWidget.h" />
+  </ItemGroup>
+</Project>

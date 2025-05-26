@@ -1,0 +1,41 @@
+{
+    "name": "Vendor",
+    "maxSpace": 300,
+    "currentMoney": 2400,
+    "items": [
+        {
+            "name": "bread",
+            "cost": 50,
+            "size": 10,
+            "rarity": 0,
+            "count": 12,
+            "attributes": [
+                "brown",
+                "tasty",
+                "healthy"
+            ]
+        },
+        {
+            "name": "poison",
+            "cost": 500,
+            "size": 2,
+            "rarity": 2,
+            "count": 9,
+            "attributes": [
+                "green",
+                "deadly"
+            ]
+        },
+        {
+            "name": "potion",
+            "cost": 300,
+            "size": 5,
+            "rarity": 1,
+            "count": 20,
+            "attributes": [
+                "red",
+                "healthy"
+            ]
+        }
+    ]
+}

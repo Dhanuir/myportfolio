@@ -1,0 +1,1 @@
+{"name":"Vendor","maxSpace":300,"currentMoney":400,"items":[{"name":"bread","cost":50,"size":10,"rarity":0,"count":24,"attributes":["brown","tasty","healthy"]},{"name":"potion","cost":300,"size":5,"rarity":1,"count":23,"attributes":["red","healthy"]},{"name":"poison","cost":500,"size":2,"rarity":2,"count":10,"attributes":["green","deadly"]}]}

@@ -1,4 +1,4 @@
-## Vendor UI (Personal Project)
+## Latest Personal Project: Vendor UI
 Built with C++, using SFML for graphics/media and RapidJSON for JSON data handling.<br />
 Take a look at the code here: [Vendor UI Project](https://github.com/Dhanuir/myportfolio/tree/main/ProjectImages/SFML/Code)<br />
 ![](ProjectImages/SFML/Inventory.gif)
